@@ -3,6 +3,6 @@ def using_concat(a,b)
 end
 
 def using_insert(a,name)
-  name = 'Andre'
+  name = 'Python'
   a.insert(4,name)
 end

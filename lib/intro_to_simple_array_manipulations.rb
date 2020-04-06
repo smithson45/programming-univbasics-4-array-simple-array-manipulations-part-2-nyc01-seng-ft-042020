@@ -8,4 +8,6 @@ def using_insert(a,name)
 end
 
 def using_uniq(a)
-  
+  a.uniq!
+end
+

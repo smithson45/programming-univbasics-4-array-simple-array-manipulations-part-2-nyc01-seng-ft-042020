@@ -12,4 +12,8 @@ def using_uniq(a)
 end
 
 def using_flatten(a)
+  a.flatten!
+end
+
+def using_delete(a,str)
   

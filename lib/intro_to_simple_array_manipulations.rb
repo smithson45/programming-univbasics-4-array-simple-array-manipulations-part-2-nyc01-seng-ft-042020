@@ -20,4 +20,5 @@ def using_delete(a,str)
 end
 
 def using_delete_at(a,int)
-  a.delete
+  a.delete_at(int)
+end
